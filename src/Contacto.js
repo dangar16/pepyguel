@@ -8,7 +8,7 @@ export default function Contacto(){
         textDecoration: 'none',
     };
     return (
-        <div className="container-fluid">
+        <div className="row">
             <div className="col" style={{backgroundColor:"#E1F0DA", paddingTop: "5px"}} id="contacto">
                 <div className="row" style={{backgroundColor:"#E1F0DA"}}>
                     <h1 className="text-center">Contacto</h1>

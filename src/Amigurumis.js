@@ -1,6 +1,6 @@
 export default function Amigurumis(){
     return (
-        <div className="container-fluid" style={{backgroundColor:"#E1F0DA"}}>
+        <div className="row" style={{backgroundColor:"#E1F0DA"}}>
             <div className="col" style={{backgroundColor:"#E1F0DA"}}>
                 <div className="row" style={{backgroundColor:"#E1F0DA"}}> 
                     <h1 className="text-center">Qué son los Amigurumis</h1>
