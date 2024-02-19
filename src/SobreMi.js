@@ -11,7 +11,7 @@ function SobreMi() {
             Pepyguel
           </h1>
           <p className="text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu ante et libero eleifend
+            lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu ante et libero eleifend
             porttitor. Sed a accumsan sem. Nullam congue mauris vitae laoreet molestie. Cras nunc
             libero, consequat eu nunc non, scelerisque consectetur purus. Aenean nisi libero,
             commodo sed aliquam eget, congue sit amet tortor. Nulla ultrices nulla sed elit
