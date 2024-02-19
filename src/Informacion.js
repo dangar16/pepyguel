@@ -1,6 +1,5 @@
 import Card from "./Card"
 import rosa from "./rosa.jfif"
-import logo from "./logo.svg"
 
 function Informacion(){
     var infoRosa = "Descubre nuestra increíble colección de productos hechos con ovillos 100% de algodón Cada artículo es cuidadosamente tejido a mano para garantizar la máxima calidad y durabilidad."
