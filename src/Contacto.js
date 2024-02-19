@@ -8,7 +8,7 @@ export default function Contacto(){
         textDecoration: 'none',
     };
     return (
-        <div className="col" style={{backgroundColor:"#E1F0DA"}}>
+        <div className="col" style={{backgroundColor:"#E1F0DA"}} id="contacto">
             <div className="row">
                 <h1 className="text-center">Contacto</h1>
             </div>
