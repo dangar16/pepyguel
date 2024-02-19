@@ -4,7 +4,8 @@ import brand from "./brand.png"
 function Navbar(){
     const linkStyle = {
         textDecoration: 'none',
-        color: 'black'
+        color: 'black',
+        marginRight: '5px'
     };
 
     return (
