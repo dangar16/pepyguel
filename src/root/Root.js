@@ -11,7 +11,6 @@ export default function Root(){
           <SobreMi/>
           <Informacion />
           <Amigurumis />
-          <div style={{border: "1px solid", width: "100%"}}></div>
           <Contacto />
         </div>
       );
