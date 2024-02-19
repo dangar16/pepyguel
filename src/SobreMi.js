@@ -10,7 +10,7 @@ function SobreMi() {
           <h1 className="text-center">
             Pepyguel
           </h1>
-          <p style={{textAlign: "justify"}}>
+          <p style={{textAlign: "justify", padding: "10px"}}>
             lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu ante et libero eleifend
             porttitor. Sed a accumsan sem. Nullam congue mauris vitae laoreet molestie. Cras nunc
             libero, consequat eu nunc non, scelerisque consectetur purus. Aenean nisi libero,
