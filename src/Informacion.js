@@ -12,7 +12,7 @@ function Informacion(){
     return (
         <div className="row justify-content-around align-items-strecth" id="informacion" style={{backgroundColor: "#E1F0DA"}}>
             <Card logo={rosa} title={titleRosa} text={infoRosa}/>
-            <Card logo={logo} title="Regalo Perfecto" text={infoAmigos} />
+            <Card logo={rosa} title="Regalo Perfecto" text={infoAmigos} />
             <Card logo={rosa} title="prueba" text={masInfo}/>
         </div>
     )
