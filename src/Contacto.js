@@ -14,8 +14,8 @@ export default function Contacto(){
             </div>
             <div className="row">
                 <div className="d-flex flex-column align-items-center">
-                    <p><span><FaInstagram /></span><a href="https://www.facebook.com/profile.php?id=100085254171200" style={linkStyle}>Pepyguel</a></p>
-                    <p><span><FaFacebook /></span><a href="https://www.instagram.com/pepyguel/" style={linkStyle}>Pepyguel</a></p>
+                    <p><span><FaFacebook /></span><a href="https://www.facebook.com/profile.php?id=100085254171200" style={linkStyle}>Pepyguel</a></p>
+                    <p><span><FaInstagram /></span><a href="https://www.instagram.com/pepyguel/" style={linkStyle}>Pepyguel</a></p>
                     <p><span><SiGmail /></span> <a href = "mailto: blopepi@gmail.com" style={linkStyle}>blopepi@gmail.com</a></p>
                 </div>
             </div>
