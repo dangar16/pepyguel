@@ -6,7 +6,7 @@ export default function Amigurumis(){
                     <h1 className="text-center">Qué son los Amigurumis</h1>
                 </div>
                 <div className="row" style={{backgroundColor:"#E1F0DA"}}>
-                        <p style={{textAlign: "justify"}}>
+                        <p style={{textAlign: "justify", padding: "10px"}}>
                             Los amigurumis son adorables muñecos tejidos a mano que se originaron en Japón. 
                             Su nombre proviene de la combinación de las palabras ami (tejido) y nuigurumi (muñeco de peluche). 
                             Estos pequeños compañeros conquistan corazones con su ternura y estilo único, convirtiéndolos en objetos de colección y regalos apreciados por personas de todas las edades.

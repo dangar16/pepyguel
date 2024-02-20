@@ -8,13 +8,12 @@ export default function Galeria() {
 
     // Estilo para el fondo de la galería
     const galeriaStyle = {
-        padding: "20px",  // Ajusta el espaciado según tus necesidades
         backgroundColor:"#E1F0DA"
     };
 
     return (
         <div style={galeriaStyle} className="container-fluid">
-            <h1 className="text-center">Galería</h1>
+            <h1 className="text-center" style={{paddingBottom: "10px"}}>Galería</h1>
             <div className="d-flex row justify-content-around">
                 {imageList.map((image, i) => (
                     <img
