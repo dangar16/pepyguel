@@ -23,10 +23,6 @@ function SobreMi() {
             lacinia nec at tellus. Maecenas tempus imperdiet augue. Etiam nec neque ut turpis
             eleifend viverra vitae sed dolor. Integer sagittis elit et felis maximus, ut sodales
             est pharetra. Aliquam eget lorem ipsum. Mauris viverra pellentesque ante quis accumsan.
-            Nam tellus eros, bibendum at nisl at, fermentum convallis magna. Duis dignissim rhoncus
-            efficitur. Nam pharetra, neque id lacinia pretium, sapien leo consequat eros, nec
-            scelerisque nibh erat nec ligula. Vestibulum a tincidunt felis. Vivamus pulvinar tortor
-            purus, at malesuada dui euismod fringilla.
           </p>
         </div>
       </div>

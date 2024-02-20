@@ -1,5 +1,7 @@
 import Card from "./Card"
 import rosa from "./rosa.jfif"
+import unicornio from "./unicornio.jfif"
+import peach from "./peach.jpg"
 
 function Informacion(){
     var infoRosa = "Descubre nuestra increíble colección de productos hechos con ovillos 100% de algodón Cada artículo es cuidadosamente tejido a mano para garantizar la máxima calidad y durabilidad."
@@ -11,8 +13,8 @@ function Informacion(){
     return (
         <div className="row justify-content-around align-items-strecth" id="informacion" style={{backgroundColor: "#E1F0DA"}}>
             <Card logo={rosa} title={titleRosa} text={infoRosa}/>
-            <Card logo={rosa} title="Regalo Perfecto" text={infoAmigos} />
-            <Card logo={rosa} title="prueba" text={masInfo}/>
+            <Card logo={peach} title="Regalo Perfecto" text={infoAmigos} />
+            <Card logo={unicornio} title="prueba" text={masInfo}/>
         </div>
     )
 }
