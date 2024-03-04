@@ -12,7 +12,7 @@ function Navbar(){
         <div className="row navbar sticky-top" style={{backgroundColor: "#E1F0DA", borderBottom: "1px solid"}}>
             <div className="col-md-6 d-flex justify-content-around order-2">
                 <a href="#sobremi" style={linkStyle}>Sobre Mí</a>
-                <Link to={'galeria'} style={linkStyle}>Galería</Link>
+                <Link to="/galeria" style={linkStyle}>Galería</Link>
                 <a href="#contacto" style={linkStyle}>Contacto</a>
             </div>
             <div className="col-md-6 d-flex justify-content-center order-1">
