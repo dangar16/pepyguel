@@ -31,6 +31,7 @@ export default function Galeria() {
                         alt={"image" + (i + 1)}
                         height="auto"
                         width="auto"
+                        loading="lazy"
                     ></img>
                 ))}
             </div>
